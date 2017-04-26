@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void onBtnP(View view) {
 
-        Intent i = new Intent(this, Main3Activity.class);
+        Intent i = new Intent(this, Main4Activity.class);
         startActivity(i);
     }
 }
